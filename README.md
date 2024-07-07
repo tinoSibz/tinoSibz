@@ -9,6 +9,7 @@
 
 ## About me
 
-- MSc Student @[Georgia Tech](https://omscs.gatech.edu/specialization-machine-learning) specilizing in Machine Learning and Artificial Intelligence
-- I am a senior data scientist at Sand Technologies
+- Studying Applied MSc in Data Science & Artificial Intelligence @[DSTI]([https://omscs.gatech.edu/specialization-machine-learning](https://www.datasciencetech.institute/)
+- Aiming to Study MSc in Computer Science @[GeorgiaTech](https://omscs.gatech.edu/specialization-machine-learning)
+- Currently a Senior Data Scientist at Sand Technologies.
 - More about me:  <!--https://-->
