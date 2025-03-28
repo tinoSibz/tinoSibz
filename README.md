@@ -9,6 +9,4 @@
 
 ## About me
 
-- Studying MSc in Computer Science @[GeorgiaTech](https://omscs.gatech.edu/specialization-machine-learning)
-- Currently a Senior Data Scientist at Sand Technologies.
-- More about me:  <!--https://-->
+- Senior Data Scientist @ Sand Technologies.
